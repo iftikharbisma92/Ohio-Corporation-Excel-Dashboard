@@ -16,7 +16,6 @@ This Excel dashboard was developed as part of a hands-on practice and assessment
 - Microsoft Excel
 - Pivot Tables
 - Pivot Charts
-- Power Query (if used)
 - Conditional Formatting
 
 ## Skills Demonstrated
