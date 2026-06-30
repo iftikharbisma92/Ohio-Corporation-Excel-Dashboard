@@ -34,9 +34,6 @@ This project showcases an interactive sales dashboard developed in Microsoft Exc
 - Business Reporting
 - Data Visualization
 
-## 📂 Project Files
-- Ohio Corporation Dashboard.xlsx
-- Dashboard Screenshot
 
 ## 👩‍💻 Author
 **Bisma Iftikhar**  
