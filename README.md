@@ -1,9 +1,9 @@
 # 📊 Ohio Corporation Sales Dashboard
 
-![Dashboard Preview](Corporation%20Dashboard.PNG)
-
 ## 📌 Project Overview
 This project showcases an interactive sales dashboard developed in Microsoft Excel as part of a hands-on practice and assessment project, to analyze sales performance, expenses, and gross profit across multiple stores. The dashboard transforms raw business data into meaningful insights through interactive visualizations and KPI reporting.
+
+![Dashboard Preview](Corporation%20Dashboard.PNG)
 
 ## 🎯 Business Objective
 - Analyze overall sales performance.
