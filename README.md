@@ -1,40 +1,43 @@
-# 📊 Ohio Corporation Excel Dashboard
+# 📊 Ohio Corporation Sales Dashboard
 
-## Overview
+![Dashboard Preview](Corporation%20Dashboard.PNG)
 
-This Excel dashboard was developed as part of a hands-on practice and assessment project to strengthen my data analysis and dashboard development skills. The project demonstrates my ability to clean, analyze, and visualize business data using Microsoft Excel.
+## 📌 Project Overview
+This project showcases an interactive sales dashboard developed in Microsoft Excel as part of a hands-on practice and assessment project, to analyze sales performance, expenses, and gross profit across multiple stores. The dashboard transforms raw business data into meaningful insights through interactive visualizations and KPI reporting.
 
-## Objectives
+## 🎯 Business Objective
+- Analyze overall sales performance.
+- Compare sales, expenses, and gross profit across stores.
+- Monitor key business KPIs.
+- Support data-driven decision-making.
 
-- Analyze business performance
-- Build an interactive dashboard
-- Create meaningful visualizations
-- Present business insights
-
-## Tools Used
-
+## 🛠️ Tools & Technologies
 - Microsoft Excel
 - Pivot Tables
 - Pivot Charts
-- Conditional Formatting
+- Data Visualization
+- KPI Cards
 
-## Skills Demonstrated
+## 📈 Dashboard Features
+- Total Sales KPI
+- Total Expenses KPI
+- Gross Profit KPI
+- Store-wise Sales Analysis
+- Store-wise Expense Analysis
+- Gross Profit Comparison
+- Category-wise Sales Analysis
 
+## 🚀 Skills Demonstrated
 - Data Cleaning
 - Data Analysis
 - Dashboard Development
-- Data Visualization
 - Business Reporting
+- Data Visualization
 
-## Dashboard Preview
+## 📂 Project Files
+- Ohio Corporation Dashboard.xlsx
+- Dashboard Screenshot
 
-*(Add dashboard screenshot here)*
-
-## Note
-
-This project was completed for learning and assessment purposes using a provided dataset.
-
-## Author
-
-**Bisma Iftikhar**
-Excel & Power BI Analyst
+## 👩‍💻 Author
+**Bisma Iftikhar**  
+Excel & Power BI Analyst | Dashboard Developer
